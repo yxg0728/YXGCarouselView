@@ -1,0 +1,19 @@
+//
+//  YXG.pch
+//  YXGCarouselView
+//
+//  Created by zengmuqiang on 2020/9/10.
+//  Copyright © 2020 ZMQ. All rights reserved.
+//
+
+#ifndef YXG_pch
+#define YXG_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Masonry.h"
+#import "MJRefresh.h"
+#import "YXGMacro.h"
+
+#endif /* YXG_pch */

@@ -1,0 +1,6 @@
+framework module Pods_YXGCarouselView {
+  umbrella header "Pods-YXGCarouselView-umbrella.h"
+
+  export *
+  module * { export * }
+}
