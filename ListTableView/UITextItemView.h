@@ -9,7 +9,7 @@
 #import "UIBaseView.h"
 
 NS_ASSUME_NONNULL_BEGIN
-
+//轮播item
 @interface UITextItemView : UIBaseView
 
 @property (nonatomic, strong) NSArray *titles;

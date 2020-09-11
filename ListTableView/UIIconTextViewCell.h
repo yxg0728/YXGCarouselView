@@ -9,7 +9,7 @@
 #import "UIBaseTableViewCell.h"
 
 NS_ASSUME_NONNULL_BEGIN
-
+//icon固定，文字轮播
 @interface UIIconTextViewCell : UIBaseTableViewCell
 
 @end

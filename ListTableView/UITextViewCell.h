@@ -9,7 +9,7 @@
 #import "UIBaseTableViewCell.h"
 
 NS_ASSUME_NONNULL_BEGIN
-
+//文字轮播
 @interface UITextViewCell : UIBaseTableViewCell
 
 @end
