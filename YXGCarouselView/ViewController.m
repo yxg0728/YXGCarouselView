@@ -10,7 +10,7 @@
 #import "ListTableView.h"
 
 @interface ViewController ()
-//
+//123
 @property (nonatomic, strong) ListTableView *tableView;
 
 @end
@@ -21,7 +21,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = kWhiteColor;
-    
+    self.title = @"轮播ing";
     [self.view addSubview:self.tableView];
     [self.tableView mas_makeConstraints:^(MASConstraintMaker *make) {
         make.top.equalTo(self.view).offset(kTopHeight);

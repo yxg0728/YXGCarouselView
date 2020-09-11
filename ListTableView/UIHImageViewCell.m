@@ -74,7 +74,7 @@
     
     [self.vCarouselView mas_makeConstraints:^(MASConstraintMaker *make) {
         make.edges.equalTo(self.contentView);
-        make.height.equalTo(@96);
+        make.height.equalTo(@90);
     }];
 }
 
