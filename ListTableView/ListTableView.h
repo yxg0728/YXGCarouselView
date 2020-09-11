@@ -9,7 +9,9 @@
 #import "UIBaseTableView.h"
 
 NS_ASSUME_NONNULL_BEGIN
-
+/**
+    轮播列表view
+*/
 @interface ListTableView : UIBaseTableView
 
 @end
