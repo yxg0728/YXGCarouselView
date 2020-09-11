@@ -9,7 +9,7 @@
 #import "UIBaseTableViewCell.h"
 
 NS_ASSUME_NONNULL_BEGIN
-
+//竖向图片轮播
 @interface UIImageViewCell : UIBaseTableViewCell
 
 @end
